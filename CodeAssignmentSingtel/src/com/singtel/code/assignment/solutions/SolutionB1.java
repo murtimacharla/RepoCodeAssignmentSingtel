@@ -21,6 +21,8 @@ public class SolutionB1 {
 		fish.getWalk().walk();
 		fish.getSing().sing();
 		fish.getSwim().swim();
+
+		System.out.println("Fish is swimming, walking and singing as per the Singtel requirements.");
 	}
 
 }
