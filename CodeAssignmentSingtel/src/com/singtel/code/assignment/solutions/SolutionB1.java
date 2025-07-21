@@ -23,6 +23,7 @@ public class SolutionB1 {
 		fish.getSwim().swim();
 
 		System.out.println("Fish is swimming, walking and singing as per the Singtel requirements.");
+		System.out.println("Second commit for tesing purposes. git rebase is working fine.");
 	}
 
 }
